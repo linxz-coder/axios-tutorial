@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "9903",
+      "title": "天气不错，挺风和日丽的",
+      "view": 300
+    },
+    {
+      "id": "3b76",
+      "title": "天气不错，挺风和日丽的",
+      "view": 300
+    },
+    {
+      "id": "b68a",
+      "title": "天气不错，挺风和日丽的",
+      "view": 300
+    },
+    {
+      "id": "7ba9",
+      "title": "天气不错，挺风和日丽的",
+      "view": 300
+    },
+    {
+      "id": 1,
+      "title": "天气不错，挺风和日丽的",
+      "view": 300
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
