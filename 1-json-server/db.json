@@ -26,7 +26,7 @@
       "view": 300
     },
     {
-      "id": 1,
+      "id": "1",
       "title": "天气不错，挺风和日丽的",
       "view": 300
     }
@@ -41,6 +41,11 @@
       "id": "2",
       "text": "another comment about post 1",
       "postId": null
+    },
+    {
+      "id": 999,
+      "text": "这是张三的评论",
+      "postId": "1"
     }
   ],
   "profile": {
